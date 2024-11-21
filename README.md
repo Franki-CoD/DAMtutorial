@@ -1,1 +1,1 @@
-# DAMtutorial
+theme: jekyll-theme-minimal
