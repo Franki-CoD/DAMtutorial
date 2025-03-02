@@ -1,1 +1,15 @@
+name: Workflow de prueba
 
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Ejecutar un script
+        run: echo "Hola, GitHub Actions!"
