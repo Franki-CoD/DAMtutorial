@@ -8,7 +8,7 @@
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 
 Podemos poner imágenes!  
-![Imagen](/github-light/assets/images/frog100x100.jpg)
+![Imagen](https://muchahistoria.com/wp-content/uploads/2021/02/osiris-significado.jpg)
 
 Incluso usar código HTML dentro de markdown
 
